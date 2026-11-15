@@ -3,11 +3,11 @@
 </p>
 
 <p align="center">
-  <a href="https://preetmendpara.qzz.io"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=F5A623&center=true&vCenter=true&width=680&lines=Hi%2C+I'm+Preet+%F0%9F%91%8B;I+build+full-stack+web+apps;Developer+tools+%C2%B7+AI-powered+products;Shipping+on+Cloudflare+%26+Vercel" alt="Hi, I'm Preet"></a>
+  <a href="https://preetmendpara.in"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=F5A623&center=true&vCenter=true&width=680&lines=Hi%2C+I'm+Preet+%F0%9F%91%8B;I+build+full-stack+web+apps;Developer+tools+%C2%B7+AI-powered+products;Shipping+on+Cloudflare+%26+Vercel" alt="Hi, I'm Preet"></a>
 </p>
 
 <p align="center">
-  <a href="https://preetmendpara.qzz.io"><img src="https://img.shields.io/badge/Portfolio-preetmendpara.qzz.io-F5A623?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
+  <a href="https://preetmendpara.in"><img src="https://img.shields.io/badge/Portfolio-preetmendpara.in-F5A623?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
   <a href="https://www.linkedin.com/in/preetmendpara"><img src="https://img.shields.io/badge/LinkedIn-preetmendpara-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:preetmendpara1111@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hi-A06CD5?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   <img src="https://komarev.com/ghpvc/?username=preetmendpara&style=for-the-badge&color=1a1a1e&label=PROFILE+VIEWS" alt="Profile views">
